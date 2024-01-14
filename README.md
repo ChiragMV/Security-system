@@ -1,3 +1,4 @@
+$$ {\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow} $$
 # Security-system
 This project is based on laser security system, along with face recognition.
 # Installation
