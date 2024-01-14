@@ -20,7 +20,7 @@ Once this is done,
 2. Run the python file Create.py to create a model. Note that you need to make your your webcam is accessible in order to create the model.
 3. Once the model is created, you can see a file named "chirag.yml". You can change the name of the model in the python files Create.py and Ardpy.py.
 4. Then, run the python file Ardpy.py.
-5. Simultaneously, run the processing code processing_code.pde to port 6(present in Security_system/Radar and photosensor/Processing code.
+5. Simultaneously, upload the arduino code and run the processing code processing_code.pde to port 6(present in Security_system/Radar and photosensor/Processing code.
 6. Make sure there are no obstacles around you when you start the processing code.
 # Testing
 You can test the project by blocking the light incoming on the photosensor. Then, if the webcam(that is running due to Ardpy.py) does not detect the user, then the buzzer will be activated and the servo motor starts to rotate. Since it has the ultrasonic sensor attached to it, even that will rotate and this can be seen on the Processing app as a radar.
