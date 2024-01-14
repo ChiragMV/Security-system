@@ -1,5 +1,4 @@
 //With appropriate connections, you can link this with the rest of the project to create a lock pattern with laser security along with face detection.
-
 void setup() {
   Serial.begin(9600); //begin Serial Communication
   pinMode(2,INPUT_PULLUP);
