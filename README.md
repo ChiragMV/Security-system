@@ -16,3 +16,5 @@ Once this is done,
 You can test the project by blocking the light incoming on the photosensor. Then, if the webcam(that is running due to Ardpy.py) does not detect the user, then the buzzer will be activated and the servo motor starts to rotate. Since it has the ultrasonic sensor attached to it, even that will rotate and this can be seen on the Processing app as a radar.
 You can test the radar feature by keeping an obstacle at some position in the range of the ultrasonic sensor-servo motor combination. Once it detects the obstacle, it shows red lines on the Processing app, which represents the obstacle.
 Note that if the webcam detects the user, there is a 14-second duration for the user to move away from the light source (and let the light fall on the photosensor), beyond which the buzzer activates if the light source is blocked. In both cases, when user is detected by webcam or not, the ultrasonic sensor-servo motor combination activates since it is better for the user to see the radar for multiple obstacle.
+# Contributing:
+Your willingness to contribute and enhance the project is highly valued and greatly appreciated.
