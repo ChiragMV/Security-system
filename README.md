@@ -1,6 +1,6 @@
 # Security-system
 This project is based on laser securit system, along with face recognition.
-#Installation
+# #Installation
 You need to have processing, arduino and Python installed in your PC.
 #Components required
 #Usage
