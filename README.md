@@ -1,4 +1,4 @@
-# $$ {\color{red}Security-system} $$
+$$ {\color{red}Security-system} $$
 # Security-system
 This project is based on laser security system, along with face recognition.
 # Installation
