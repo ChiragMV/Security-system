@@ -2,7 +2,7 @@
 This project is based on laser security system, along with face recognition.
 # Installation
 You need to have processing, arduino and Python installed in your PC.
-#Components required
+# Components required
 1. Arduino Uno(X2)
 2. Resistors(X2)
 3. Light-dependent resistor(LDR)
