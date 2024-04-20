@@ -30,3 +30,5 @@ Once this is done,
 5. In both cases, when user is detected by webcam or not, the ultrasonic sensor-servo motor combination activates since it is better for the user to see the radar for multiple obstacles.
 # Contributing:
 Your willingness to contribute and enhance the project is highly valued and greatly appreciated. You could also modify and add additional features to this project (like using switches to introduce a lock pattern and so on).
+# References:
+Online research papers.
